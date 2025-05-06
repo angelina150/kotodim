@@ -187,6 +187,10 @@
     grid-area: v;
   }
 }
+.video {
+  display: grid;
+  gap: 24px;
+}
 .video-title {
   color: var(--grey, #2c2c2c);
   font-family: var(--common-font);
