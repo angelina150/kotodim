@@ -11,7 +11,7 @@
 
 ### 🚀 Demo
 
-Live version: []()
+Live version: [https://angelina150.github.io/kotodim/](https://angelina150.github.io/kotodim/)
 
 ### 📚 Goal
 
@@ -34,7 +34,7 @@ This project was built as part of learning front-end layout principles using pur
 
 ### 🚀 Демоверсія
 
-Живий сайт: []()
+Живий сайт: [https://angelina150.github.io/kotodim/](https://angelina150.github.io/kotodim/)
 
 ### 📚 Мета
 
